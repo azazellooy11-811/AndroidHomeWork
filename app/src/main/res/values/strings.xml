@@ -1,4 +1,12 @@
 <resources>
+    <string name="e_mail">E-MAIL</string>
+    <string name="login">LOGIN</string>
+    <string name="password">PASSWORD</string>
+    <string name="new_password">NEW PASSWORD</string>
+    <string name="save">SAVE</string>
+    <string name="reset_password">RESET PASSWORD</string>
+    <string name="validate_password">Password not correct!</string>
     <string name="app_name">Transition</string>
     <string name="title_activity_second">SecondActivity</string>
+    <string name="enter">Enter</string>
 </resources>
